@@ -26,3 +26,7 @@ namespace AgileProject.Data
         public Guid UserId { get; set; }
     }
 }
+    class Character
+    {
+    }
+}
